@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large file
+variants_with_seq.csv
