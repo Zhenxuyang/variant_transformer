@@ -130,3 +130,11 @@ dmypy.json
 
 # large file
 variants_with_seq.csv
+data/
+
+# config
+bin/
+pyvenv.cfg
+
+# temp
+model/runs/
