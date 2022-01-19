@@ -43,7 +43,7 @@ trans_drop_prob = 0.5
 output_dim = 1
 
 # 学习率
-learning_rate = 0.001
+learning_rate = 0.01
 
 # batch大小 
 batch_size = 100
