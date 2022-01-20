@@ -6,10 +6,16 @@ label_dim = 2
 
 # 序列文件路径
 # file_path = '/kaggle/input/cancerenhancers/cancerEnhancers_filtered.csv'
-file_path = "../data/variants_with_seq.csv"
+# file_path = "../data/variants_with_seq.csv"
+# 训练数据文件
+train_file_path = 'data/train_20001_onehot.csv'
+# 验证数据文件
+valid_file_path = 'data/valid_20001_onehot.csv'
+# 测试数据文件
+test_file_path = 'data/test_20001_onehot.csv'
 
-# 原始序列的长度
-seq_len = 2001
+# 序列的长度
+seq_len = 20001
 # pad的填充索引
 pad_idx = 0
 
